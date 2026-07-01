@@ -1,6 +1,6 @@
 # Hi there, I'm Mahmoud Mohammed Mahmoud Radi 👋
 
-I am a Computer Science student at October 6 University and a member of O6U-Squad. I am passionate about solving complex algorithmic challenges and building modern, interactive frontend layouts.
+I am a Computer Science student at October 6 University. I am passionate about solving complex algorithmic challenges and building modern, interactive frontend layouts.
 
 * 🔭 Currently working on: Frontend web development (focusing on complex CSS keyframe animations) and Java GUI applications.
 * 🌱 Currently learning: Advanced competitive programming techniques and microprocessor and computer architecture.
